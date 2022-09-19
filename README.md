@@ -14,7 +14,7 @@
 
 ### Um pouco sobre minha persona
 
- Bem sou Brasileiro tenho 27 anos atualmente, sou desenvolvedor de software desde o final de 2020, atualmente estou trabalhando na Assembléia e Deus, como desenvolvedor júnior FullStack, sou um eterno aprendiz, atualmente sou proeficiente com JavaScript e Python, atuando com ReactJs e Django no FrontEnd, e NodeJS no back, estou aprendendo php e angular por conta do novo trabalho na Assembléia de Deus. 
+ Bem sou Brasileiro tenho 27 anos atualmente, sou desenvolvedor de software desde o final de 2020, atualmente estou trabalhando na Assembléia e Deus, como desenvolvedor júnior FullStack, sou um eterno aprendiz, atualmente sou proeficiente com JavaScript e Python, atuando com ReactJs e Django no FrontEnd, e NodeJS no back, sou entusiasta na aréa de segurança no desenvolvimento e etinical hacking(white hat), ativista do software livre, apaixonado por café, louco por games, apaixonado por música, capivara no xadrez, desenvolvedor de jogos com canvas e javascript, fã dos siths em star wars ( se você que está lendo for fã dos jedis já sabe que iremos resolver no jedi academy)
 <!--
 **digitalheadhunt/digitalheadhunt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
