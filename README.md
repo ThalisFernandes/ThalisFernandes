@@ -46,6 +46,11 @@ sou um apaixonado por programação, gosto bastante de Café, amo jogar xadrez, 
 - 😄 Pronouns: HE/HIM
 - ⚡ Fun fact: Eu ouço MC MAHA e gosto muito...
 - 🌱 I’m currently learning Cyber Security
+
+## Link dos projetos no vercel: 
+ - RPG com javaScript: https://rpg-javascript.vercel.app/  
+ - Shooter com javascript: https://shooter-two.vercel.app/  
+ 
 <!--
 **digitalheadhunt/digitalheadhunt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
