@@ -41,6 +41,8 @@ sou um apaixonado por programação, gosto bastante de Café, amo jogar xadrez, 
 - ReactJS:
 - NodeJS:
 - Kivy:
+- PHP: 
+- Laravel:  
 
 - 💬 Ask me about everything
 - 😄 Pronouns: HE/HIM
