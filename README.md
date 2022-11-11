@@ -15,6 +15,7 @@
 
 ### Um pouco sobre minha persona
 
+Minha trajetória na programação:  
  Começei a estudar programação no ano de 2015, quando ganhei meu primeiro notebook em um projeto do governo do estado de Pernambuco, onde foram distribuidos, varios notebooks para os alunos do ensino médio, desde lá começei a aprender HTML e CSS no youtube, após cerca de 8 meses aprendendo HTML e CSS eu começei a aprender JavaScript (Meu amorzinho), no ano de 2019 após cerca de 1 ano e meio sem estudar programação, decidi voltar para os estudos e recebi uma oportunidade de trabalhar como desenvolvedor em 2020 na NTDSOFT onde eu tive meu primeiro contato com programação de verdade, após 5 meses de fato colocando a mão na massa, recebi uma proposta de uma startup chamada Simbiose Ventures, onde eu atuei como desenvolvedor fullstack em um projeto de um low-code no-code da empresa, onde eu tive uma grande evolução técnica, após um período passei para outra equipe dentro da mesma empresa, indo atuar com um sistema de gestão de fisioterapeutas utilizando o low-code no-code da empresa, e prestando serviço para essa empresa, para implementar algumas features que nosso sistema ainda não cobria, após essa experiência dentro da simbiose fui trabalhar em uma outra empresa/Organização religiosa, que é a Assembléia de Deus onde eu fui contratado como Analista de Sistemas, e fui responsavél por parte da migração de um sistema legado em Java e a implementação de uma forma para poder imprimir documentos em PDF utilizando NodeJS.
 
 Sobre minha persona: 
