@@ -1,6 +1,6 @@
 
 <link rel="stylesheet" href="readme.css">
-
+![CodeWars] (https://www.codewars.com/users/ThalisFernandes/badges/large)
 ## Olá amiguinhos, Thalis sou eu.
 ![ThalisFernandes's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThalisFernandes&show_icons=true&theme=cobalt)
 ### Minhas Redes Sociais
