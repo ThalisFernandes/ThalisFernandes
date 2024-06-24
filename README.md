@@ -35,6 +35,12 @@ sou um apaixonado por programação, gosto bastante de Café, amo jogar xadrez, 
  - Threads;
  - Concorrência;
  - OO;
+ - Algoritmos;
+ - Estruturas de dados;
+ - Algoritmos de buscas;
+ - Http requests;
+ - Json;
+ - Ajax;
 
 ### Linguagens de Programação: 
    - C#
