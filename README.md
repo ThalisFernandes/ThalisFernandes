@@ -29,29 +29,56 @@ Minha trajetória na programação:
 Sobre minha persona: 
 sou um apaixonado por programação, gosto bastante de Café, amo jogar xadrez, doomer, apaixonado por música, amo doguinhos, gosto de games e se for games antigos eu amo S2, metido a escritor nas horas vagas(Sim já escrevi um conto), gosto de tocar violão, entusiasta em segurança da informação e White Hat, inimigo dos gnomos no WoW, sith nas horas vagas(se você que está lendo for um jedi, teremos que resolver esse duelo no Jedi Academy), Team Rhaenyra. 
 
-### Meus conhecimentos: 
-- Javascript : 
-- Python:
-- MySQL:
-- Oracle:
-- MongoDB:
-- Redis:
-- PostegreSQL:
-- ORM's:
+## Meus conhecimentos: 
+ - Async / Await;
+ - Promisse;
+ - Threads;
+ - Concorrência;
+ - OO;
+
+### Linguagens de Programação: 
+   - C#
+   - Javascript : 
+   - Python:
+### Bancos de dados: (Transaction, Triggers, procedures, Joins, Queries Complexas)
+
+  - MySQL: 
+  - Oracle: 
+  - MongoDB: 
+  - Redis: (Cache)
+  - PostegreSQL:
+   
+### ORM's:
    - TypeORM;
    - Sqlalchemy;
-- HTML5:
+### HTML5:
    - Handlebars;
-- CSS:
+   - Tags semânticas;
+   - SEO;
+   - Acessibilidade;
+   - 
+### CSS:
+   - seletores;
+   - Pseudo-Seletores;
    - TailWind;
    - SASS;
    - SCSS;
-- Django:
-- ReactJS:
-- NodeJS:
-- Kivy:
-- PHP: 
-- Laravel:  
+
+### Frameworks:
+  - Django
+  - Flask
+  - ReactJS
+  - whatsappwebjs
+### NodeJS:
+    - Express;
+    - Router;
+    - Sockets;
+### Jquery:
+    - Seletores;
+### Testes Automatizados:
+    - Selenium;
+    - Cypress;
+    
 
 - 💬 Ask me about everything
 - 😄 Pronouns: HE/HIM
