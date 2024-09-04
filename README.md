@@ -93,7 +93,8 @@ sou um apaixonado por programação, gosto bastante de Café, amo jogar xadrez, 
 
 ## Link dos projetos no vercel: 
  - RPG com javaScript: https://rpg-javascript.vercel.app/  
- - Shooter com javascript: https://shooter-two.vercel.app/  
+ - Shooter com javascript: https://shooter-two.vercel.app/
+ - Meu site: https://thalisfernandes.github.io/Portifolio-Thalis/ 
  
 <!--
 **digitalheadhunt/digitalheadhunt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
