@@ -4,6 +4,8 @@
 
 ![Go Horse](https://img.shields.io/badge/Go%20Horse-Approved-%23ff69b4?style=for-the-badge&logo=github)
 ![Café é vida](https://img.shields.io/badge/Caf%C3%A9%20no%20Code-Approved-%236f4e37?style=for-the-badge&logo=coffeescript)
+
+![Thalis's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThalisFernandes&show_icons=true&theme=chartreuse-dark)
 ---
 
 ## 🧨 Patentes Honorárias da Engenharia Go Horse
