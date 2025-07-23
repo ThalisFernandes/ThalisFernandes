@@ -1,14 +1,15 @@
 ## 👋 Olá, eu sou o Thalis!
 
-![Streak](https://streak-stats.demolab.com?user=ThalisFernandes&theme=tokyonight_duo)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ThalisFernandes&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
 
 <link rel="stylesheet" href="readme.css">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=ThalisFernandes&theme=discord&no-frame=true&column=4)
 
 
-![Go Horse Status](https://img.shields.io/badge/Patente-GoHorse%20Elite%20Squad-%23ff69b4?style=for-the-badge&logo=github)
 
+## 🏅 Patente Oficial
+
+![GoHorse](https://img.shields.io/badge/GOHORSE%20ELITE%20SQUAD-%F0%9F%91%89%20Patente%20Oficial-ff69b4?style=for-the-badge)
 
 
 ---
@@ -67,6 +68,9 @@
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
 
 ---
+## 🏆 Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=ThalisFernandes&theme=discord&no-frame=true&column=4)
+
 ## 💼 Minha Trajetória Profissional
 
 ### 🔹 Software Engineer — Grupo Pulsati (2025 - atual)
