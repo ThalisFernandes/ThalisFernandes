@@ -1,10 +1,16 @@
 ## 👋 Olá, eu sou o Thalis!
 
+![Streak](https://streak-stats.demolab.com?user=ThalisFernandes&theme=tokyonight_duo)
+
 <link rel="stylesheet" href="readme.css">
 
-![Go Horse Status](https://img.shields.io/badge/Patente-GoHorse%20Elite%20Squad-%23ff69b4?style=for-the-badge&logo=github)
-![Streak](https://streak-stats.demolab.com?user=ThalisFernandes&theme=tokyonight_duo)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=ThalisFernandes&theme=discord&no-frame=true&column=4)
+
+
+![Go Horse Status](https://img.shields.io/badge/Patente-GoHorse%20Elite%20Squad-%23ff69b4?style=for-the-badge&logo=github)
+
+
+
 ---
 
 ## 🧨 Patentes Honorárias da Engenharia Go Horse
