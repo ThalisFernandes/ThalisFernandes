@@ -3,7 +3,7 @@
 <link rel="stylesheet" href="readme.css">
 
 ![Go Horse](https://img.shields.io/badge/Go%20Horse-Approved-%23ff69b4?style=for-the-badge&logo=github)
-
+![Café é vida](https://img.shields.io/badge/Caf%C3%A9%20no%20Code-Approved-%236f4e37?style=for-the-badge&logo=coffeescript)
 ---
 
 ## 🧨 Patentes Honorárias da Engenharia Go Horse
