@@ -2,7 +2,7 @@
 
 <link rel="stylesheet" href="readme.css">
 
-![ThalisFernandes's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThalisFernandes&show_icons=true&theme=cobalt)
+![Go Horse](https://img.shields.io/badge/Go%20Horse-Approved-%23ff69b4?style=for-the-badge&logo=github)
 
 ---
 
