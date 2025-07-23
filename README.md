@@ -2,10 +2,9 @@
 
 <link rel="stylesheet" href="readme.css">
 
-![Go Horse](https://img.shields.io/badge/Go%20Horse-Approved-%23ff69b4?style=for-the-badge&logo=github)
-![Café é vida](https://img.shields.io/badge/Caf%C3%A9%20no%20Code-Approved-%236f4e37?style=for-the-badge&logo=coffeescript)
-
-![Thalis's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThalisFernandes&show_icons=true&theme=chartreuse-dark)
+![Go Horse Status](https://img.shields.io/badge/Patente-GoHorse%20Elite%20Squad-%23ff69b4?style=for-the-badge&logo=github)
+![Streak](https://streak-stats.demolab.com?user=ThalisFernandes&theme=tokyonight_duo)
+![Trophies](https://github-profile-trophy.vercel.app/?username=ThalisFernandes&theme=discord&no-frame=true&column=4)
 ---
 
 ## 🧨 Patentes Honorárias da Engenharia Go Horse
