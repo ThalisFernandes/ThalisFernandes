@@ -158,9 +158,11 @@ Sou apaixonado por programação, café, xadrez e música. Gosto de doguinhos, g
 - HTTP requests / JSON / AJAX
 
 ### Linguagens de Programação:
-- C#
+- C
 - JavaScript
 - Python
+- PHP
+- Java
 
 ### Bancos de Dados:
 - MySQL, Oracle, PostgreSQL
