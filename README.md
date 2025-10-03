@@ -212,4 +212,4 @@ Sou apaixonado por programação, café, xadrez e música. Gosto de doguinhos, g
 
 - [RPG com JavaScript](https://rpg-javascript.vercel.app/)  
 - [Shooter com JavaScript](https://shooter-two.vercel.app/)  
-- [Meu portfólio](https://thalisfernandes.github.io/Portifolio-Thalis/)
+- [Meu portfólio](https://ubuntu-20-04-react-js.vercel.app/)
